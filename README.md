@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy @samu-tec
 
-## Sobre mí
+## Sobre mí:
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, actualmente en proceso de aprender y mejorar mis habilidades en la creación de sitios web y aplicaciones. Mi formación incluye el desarrollo tanto en el **frontend** como en el **backend**, utilizando tecnologías como **HTML, CSS, JavaScript, PHP** y **Bases de Datos**.
 
