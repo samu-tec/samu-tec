@@ -15,8 +15,8 @@ Me gusta enfrentar nuevos retos y aprender sobre tecnologías modernas para mejo
 
 ## Cualidades:
 
-- 🎯 **Proactivo/a**: Me gusta asumir nuevos retos y encontrar soluciones innovadoras a problemas complejos.
-- 💡 **Curioso/a**: Siempre estoy buscando aprender algo nuevo, ya sea sobre tecnologías emergentes o mejores prácticas en desarrollo.
+- 🎯 **Proactivo**: Me gusta asumir nuevos retos y encontrar soluciones innovadoras a problemas complejos.
+- 💡 **Curioso**: Siempre estoy buscando aprender algo nuevo, ya sea sobre tecnologías emergentes o mejores prácticas en desarrollo.
 - 🛠️ **Detallista**: Me esfuerzo por escribir código limpio y bien organizado, buscando siempre la mejor solución.
 
 Gracias por visitar mi repositorio. Si tienes alguna sugerencia o te interesa colaborar en algún proyecto, no dudes en contactarme. ¡Estoy abierto/a a nuevas oportunidades de aprendizaje y colaboración!
