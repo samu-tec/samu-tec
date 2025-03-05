@@ -1,4 +1,4 @@
-# Hola, soy Samu_Tech 👋
+# Hola, soy Samuel 👋
 
 ¡Bienvenidos a mi perfil de GitHub! Soy un desarrollador que está empezando en el mundo de la programación y actualmente estudio el curso de **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona crear aplicaciones web modernas y siempre estoy buscando aprender y mejorar mis habilidades.
 
