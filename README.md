@@ -10,6 +10,8 @@
 
 **[Discord-RAG-Bot](https://github.com/samu-tec/Discord-RAG-Bot)** — Bot de Discord con RAG que responde preguntas usando IA local con Ollama y ChromaDB, sin APIs externas de pago.
 
+**[PokeAPI](https://github.com/samu-tec/PokeAPI)** — Web de práctica para consumir una API REST externa y mostrar datos de forma dinámica.
+
 ---
 
 ## 🛠️ Tecnologías
